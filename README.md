@@ -1,5 +1,5 @@
 # Icosahedron-Java
-Icosahedron Project from Java 1210
+Icosahedron Project Java 
 Write a program that is composed of several classes: 
 (1)Icosahedron, which defines Icosahedron objects by label, color and edge. Gives user ability to get and set label, color and edge. Calculates surface area, volume and surface area / volume ratio. Posses ability to check if a given Icosahedron is the same as another. Prints information detailing everything stated above.
 (2)IcosahedronApp, which is a driver that reads in data from user input, creates an Icosahedron object and prints the object. 
